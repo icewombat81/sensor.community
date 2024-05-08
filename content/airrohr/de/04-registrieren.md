@@ -1,5 +1,5 @@
 ---
-title: Registierung
+title: Registrierung
 ---
 ### Sensor registrieren 
 
